@@ -1,0 +1,38 @@
+{
+  "name": "angular",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "v17-lts",
+    "@angular/cdk": "v17-lts",
+    "@angular/common": "v17-lts",
+    "@angular/compiler": "v17-lts",
+    "@angular/core": "v17-lts",
+    "@angular/forms": "v17-lts",
+    "@angular/material": "v17-lts",
+    "@angular/platform-browser": "v17-lts",
+    "@angular/platform-browser-dynamic": "v17-lts",
+    "@angular/router": "v17-lts",
+    "rxjs": "7.8.1",
+    "tslib": "2.8.1",
+    "zone.js": "0.15.0"
+  },
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "v17-lts",
+    "@angular/cli": "v17-lts",
+    "@angular/compiler-cli": "v17-lts",
+    "@angular/language-service": "v17-lts",
+    "@types/node": "20.17.6",
+    "prettier": "^3.4.1",
+    "ts-node": "10.9.2",
+    "typescript": "5.4.5"
+  }
+}
